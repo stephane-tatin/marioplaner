@@ -5,7 +5,7 @@ import "firebase/auth"
   
   // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyBsRssU3EH1yG89RMYrkJ2UEBKrdE_uP1E",
+    apiKey: "apiKey",
     authDomain: "marioplaner-762f2.firebaseapp.com",
     databaseURL: "https://marioplaner-762f2.firebaseio.com",
     projectId: "marioplaner-762f2",
